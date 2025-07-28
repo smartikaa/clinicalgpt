@@ -19,6 +19,8 @@ JSON:
 
     response = requests.post("https://openrouter.ai/api/v1/chat/completions", json=data, headers=headers)
     content = response.json()["choices"][0]["message"]["content"]
+    print(response.status_code)
+    print(response.text)
 
     # Safely eval JSON (or use json.loads if valid)
     import json
