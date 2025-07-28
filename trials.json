@@ -1,1 +1,21 @@
+[
+  {
+    "id": "NCT000001",
+    "condition": "Breast Cancer",
+    "phase": "Phase 3",
+    "masking": "Double-Blind",
+    "location": "Delhi",
+    "age_range": "40+",
+    "sponsor": "Tata Memorial Hospital"
+  },
+  {
+    "id": "NCT000002",
+    "condition": "Hypertension",
+    "phase": "Phase 2",
+    "masking": "Open-label",
+    "location": "Hyderabad",
+    "age_range": "50+",
+    "sponsor": "AIIMS"
+  }
+]
 
