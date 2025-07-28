@@ -1,1 +1,6 @@
-
+streamlit
+openai
+sentence-transformers
+faiss-cpu
+pandas
+requests
